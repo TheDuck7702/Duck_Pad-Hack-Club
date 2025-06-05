@@ -11,3 +11,10 @@ June 4
 - I attended the meeting and got clarification on some questions I had. I also got a lot of ideas for the next steps, both for DuckPad and for my upcoming project.
 - I’ve started thinking about the code for DuckPad and trying to understand what I need to do to bring it all together.
 - My goal is to finish DuckPad by June 5, and then start working on my next project, which is called Candle :)
+- ![Screenshot 2025-06-04 175634](https://github.com/user-attachments/assets/35d1f464-b661-4763-909c-c7ff0186a358)
+- ![Screenshot 2025-06-04 204325](https://github.com/user-attachments/assets/e06d7ba7-c7c8-4c41-abe7-0489e5043c41)
+- ![Screenshot 2025-06-04 204309](https://github.com/user-attachments/assets/a685e3bf-e4a8-4780-9ac8-407973aed361)
+- ![image](https://github.com/user-attachments/assets/07b46e50-c9ea-4460-8780-df1f3254c5cf)
+
+
+
