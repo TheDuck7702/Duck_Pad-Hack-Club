@@ -28,9 +28,7 @@ Photos:
 
 ![Screenshot 2025-06-04 204309](https://github.com/user-attachments/assets/54329918-3b57-4dd3-a0ab-41e53037662a)
 
-![image](https://github.com/user-attachments/assets/fbccbb4c-be82-4ff6-b2d0-c6defa4aafeb)
-
-![image](https://github.com/user-attachments/assets/1e69aea0-541e-4f63-81c0-593896a06e04)
+![image](https://github.com/user-attachments/assets/234005f6-da62-4e6d-a43b-9e7354e8e591)
 
 
 
