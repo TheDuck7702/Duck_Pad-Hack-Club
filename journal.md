@@ -16,5 +16,8 @@ June 4
 - ![Screenshot 2025-06-04 204309](https://github.com/user-attachments/assets/a685e3bf-e4a8-4780-9ac8-407973aed361)
 - ![image](https://github.com/user-attachments/assets/07b46e50-c9ea-4460-8780-df1f3254c5cf)
 
+June 5
+- I have found out that my potentiometer does not work like i wired it to be. So i have changed it io the right one, a Rotery Encoder. It was a small switch and i got the case to be samller as well. Because I am printing the case myself, thats good.
+- I have also started on the code. Its rly weird rn, bc im js trying to learn how to do it, but by tn, it should be done and submitted (hopefully)
 
 
